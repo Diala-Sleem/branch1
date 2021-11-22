@@ -1,0 +1,8 @@
+Exercise -3 :
+-------------
+1. Create a new repository locally.
+2. Add a readme file to the master/main branch. Add a heading to file. Make sure to add, commit your changes.
+3. Create a branch named "content" and switch to the new branch.
+4. Add text to the readme file on the content branch. Don't forget to add and commit these changes.
+5. Go back to master and create another branch named "hotfix" from master. Note that the changes in your previous branch, content, are not there.
+6. View all branches on terminal.
